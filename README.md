@@ -8,7 +8,7 @@ Statistical analysis and predictive modeling of student depression using R progr
 - **Muneeb Arif** - BCS-4B (22F-3881)
 - **Shahem Riaz** - BCS-4B (22F-3883)
 
-**Instructor:** Mr. Ahmed Hassan
+**Instructor:** Nasir Abbas
 
 ## 🎯 Objectives
 - Analyze factors contributing to depression among students
